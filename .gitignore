@@ -1,1 +1,2 @@
-*.dat
+*.dat   # ignore all .dat files 
+years/  # ignore all files in Years/
